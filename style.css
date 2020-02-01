@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav {
+    margin-right: 100px;
+    background-color: crimson;
+    padding: 20px;
+    width: 250px;
+    float: left;
+    margin-right: 50px;
+}
+.nav ul li {
+    list-style: none;
+    list-style-type: none;
+}
+.nav a {
+    font-style: none;
+    text-decoration: none;
+    color: #FFF;
+}
+.sadrzaj {
+    background-color: darkgray;
+    padding: 25px;
+    width: 1000px;
+    margin-left: 300px;
+}
+nav table, th, td {
+  border: 1px solid #FFF;
+}
